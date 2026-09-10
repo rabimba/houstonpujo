@@ -25,6 +25,8 @@ export interface CityConfig {
   festivalDates: string[];
   plannerAddressExample: string;
   plannerCityQuery: string;
+  /** Sister city sites — cross-linked in the homepage hero. */
+  sisterSites?: { brand: string; url: string }[];
   sampleSlugs: { detail: string; sitemap: string; plannerMust: string[] };
 }
 

@@ -85,7 +85,13 @@ export const city = {
       "hdbs",
       "sdkkm"
     ]
-  }
+  },
+  "sisterSites": [
+    {
+      "brand": "Bay Area Pujo Parikrama",
+      "url": "https://rabimba.github.io/baypujo/"
+    }
+  ]
 } as CityConfig;
 export const data = {
   "meta": {

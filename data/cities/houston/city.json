@@ -11,10 +11,20 @@
   "repoName": "houstonpujo",
   "dataRepoUrl": "https://github.com/rabimba/houstonpujo/edit/main/data/cities/houston/pujas.json",
   "ownerUrl": "https://rabimba.github.io/",
-  "center": { "lat": 29.74, "lng": -95.55 },
+  "center": {
+    "lat": 29.74,
+    "lng": -95.55
+  },
   "zoom": 10,
   "warnRadiusMi": 75,
-  "driveParams": { "roadFactor": 1.25, "speedsMph": [22, 32, 45] },
+  "driveParams": {
+    "roadFactor": 1.25,
+    "speedsMph": [
+      22,
+      32,
+      45
+    ]
+  },
   "regions": [
     {
       "id": "Hillcroft / Mahatma Gandhi District",
@@ -65,6 +75,15 @@
   "sampleSlugs": {
     "detail": "hdbs",
     "sitemap": "hdbs",
-    "plannerMust": ["hdbs", "sdkkm"]
-  }
+    "plannerMust": [
+      "hdbs",
+      "sdkkm"
+    ]
+  },
+  "sisterSites": [
+    {
+      "brand": "Bay Area Pujo Parikrama",
+      "url": "https://rabimba.github.io/baypujo/"
+    }
+  ]
 }
