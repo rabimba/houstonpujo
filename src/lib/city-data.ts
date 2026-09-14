@@ -589,7 +589,50 @@ export const data = {
         "lng": -95.5425,
         "coordsApprox": true
       },
-      "schedule": [],
+      "schedule": [
+        {
+          "date": "2026-10-23",
+          "start": "14:00",
+          "end": "16:00",
+          "title": "Maha Shashthi Puja",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-23",
+          "start": "16:00",
+          "end": "18:00",
+          "title": "Maha Saptami Puja",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-23",
+          "start": "19:00",
+          "end": "20:30",
+          "title": "Cultural Program - Local Artists",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-24",
+          "start": "09:30",
+          "end": "10:30",
+          "title": "Maha Ashtami Puja",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-24",
+          "start": "11:30",
+          "end": "12:30",
+          "title": "Maha Navami Puja",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-24",
+          "start": "12:30",
+          "end": "13:00",
+          "title": "Bijoya Dashami",
+          "type": "ritual"
+        }
+      ],
       "bhog": {
         "available": true,
         "price": null,
@@ -618,8 +661,30 @@ export const data = {
         "Two days of cultural programs at India House"
       ],
       "status": "verified",
-      "culturalPrograms": [],
-      "hours": []
+      "culturalPrograms": [
+        {
+          "date": "2026-10-23",
+          "time": "19:00",
+          "title": "Cultural Program - Local Artists",
+          "artist": "Local Artists",
+          "description": "Music, dance performances, and dramas presented by local community members.",
+          "free": false
+        }
+      ],
+      "hours": [
+        {
+          "date": "2026-10-23",
+          "open": "14:00",
+          "close": "23:00",
+          "source": "organizer"
+        },
+        {
+          "date": "2026-10-24",
+          "open": "09:00",
+          "close": "23:00",
+          "source": "organizer"
+        }
+      ]
     },
     {
       "id": "sdkkm",
