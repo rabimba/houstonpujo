@@ -885,6 +885,77 @@ export const data = {
       "status": "tba",
       "culturalPrograms": [],
       "hours": []
+    },
+    {
+      "id": "mantra-pearland",
+      "name": "Mantra Pearland Durga Pujo",
+      "organizer": "Mantra Pearland",
+      "region": "Southwest Houston",
+      "status": "verified",
+      "weekend": 0,
+      "dateLabel": "Pre-Puja Event: Oct 4, 2026",
+      "dates": [
+        {
+          "date": "2026-10-04"
+        }
+      ],
+      "venue": {
+        "name": "West Pearland Library",
+        "address": "11801 Shadow Creek Pkwy (also listed at 3522 Liberty Dr)",
+        "city": "Pearland",
+        "lat": 29.5789,
+        "lng": -95.4021,
+        "coordsApprox": false
+      },
+      "description": "Celebrating its 5th year in 2026 under the banner 'Community • Culture • Togetherness'. Kickstarts Durga Puja 2026 celebrations on Sunday, October 4th with a free community-wide Art, Alpona & Chess Competition (10 AM–12 PM) at West Pearland Library, sponsored by Best Brains Pearland.",
+      "entry": {
+        "free": true,
+        "ticketUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeexYPvOYpslW5WVB6p_DgQ_TFDIt99EIymTDAKHYJ46W6pCQ/viewform",
+        "notes": "Free entry and participation. Registration required via Google Form."
+      },
+      "bhog": {
+        "available": false,
+        "details": "Pre-puja cultural competition event; main puja dates and bhog details TBA.",
+        "price": null
+      },
+      "contact": {
+        "email": "mantrapearland@gmail.com",
+        "phone": null
+      },
+      "links": {
+        "website": "https://mantrapearland.org/",
+        "registration": "https://docs.google.com/forms/d/e/1FAIpQLSeexYPvOYpslW5WVB6p_DgQ_TFDIt99EIymTDAKHYJ46W6pCQ/viewform"
+      },
+      "highlights": [
+        "5th Annual Durga Pujo celebration in Pearland / Greater Houston",
+        "Art, Alpona & Chess Competition on Oct 4, 2026 (10 AM – 12 PM)",
+        "Free community participation (sponsored by Best Brains Pearland)",
+        "Art paper provided; 3-round Swiss system unrated chess tournament"
+      ],
+      "notices": [
+        "Main Durga Puja ritual schedule and dates for 2026 to be announced by Mantra Pearland.",
+        "Participants in the Oct 4 competition should bring their own coloring supplies and chess boards."
+      ],
+      "hours": [],
+      "culturalPrograms": [
+        {
+          "date": "2026-10-04",
+          "time": "10:00",
+          "title": "Art, Alpona & Chess Competition",
+          "artist": "Community participants (all ages)",
+          "description": "Art competition on canvas/paper, traditional Alpana floor art competition, and a 3-round Swiss system unrated tactical chess tournament.",
+          "free": true
+        }
+      ],
+      "schedule": [
+        {
+          "date": "2026-10-04",
+          "start": "10:00",
+          "end": "12:00",
+          "title": "Art, Alpona & Chess Competition",
+          "type": "cultural"
+        }
+      ]
     }
   ]
 } as PujoData;
