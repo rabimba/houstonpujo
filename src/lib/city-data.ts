@@ -957,58 +957,120 @@ export const data = {
       "organizer": "Mantra Pearland",
       "region": "Southwest Houston",
       "status": "verified",
-      "weekend": 0,
-      "dateLabel": "Pre-Puja Event: Oct 4, 2026",
+      "weekend": 2,
+      "dateLabel": "Oct 4 (Pre-Puja) & Oct 16–18, 2026",
       "dates": [
         {
           "date": "2026-10-04"
+        },
+        {
+          "date": "2026-10-16"
+        },
+        {
+          "date": "2026-10-17"
+        },
+        {
+          "date": "2026-10-18"
         }
       ],
       "venue": {
-        "name": "West Pearland Library",
-        "address": "11801 Shadow Creek Pkwy (also listed at 3522 Liberty Dr)",
-        "city": "Pearland",
-        "lat": 29.5789,
-        "lng": -95.4021,
+        "name": "Orissa Cultural Center",
+        "address": "3101 Fuqua St",
+        "city": "Houston",
+        "lat": 29.6126,
+        "lng": -95.3765,
         "coordsApprox": false
       },
-      "description": "Celebrating its 5th year in 2026 under the banner 'Community • Culture • Togetherness'. Kickstarts Durga Puja 2026 celebrations on Sunday, October 4th with a free community-wide Art, Alpona & Chess Competition (10 AM–12 PM) at West Pearland Library, sponsored by Best Brains Pearland.",
+      "description": "Celebrating its 5th Year Grand Celebration under the banner 'Community • Culture • Togetherness'. Kickstarts on Sunday, October 4th with a free Art, Alpona & Chess Competition at West Pearland Library, followed by the main 3-day Durga Puja celebration from October 16–18 at the Orissa Cultural Center featuring Chandi Paath, Sashti through Dashami rituals, Sondhipuja with 108 lotuses, Dhunuchi Naach, Sindoor Khela, ticketed lunches, bazaar, and Shornali Sandhya cultural programs.",
       "entry": {
         "free": true,
         "ticketUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeexYPvOYpslW5WVB6p_DgQ_TFDIt99EIymTDAKHYJ46W6pCQ/viewform",
-        "notes": "Free entry and participation. Registration required via Google Form."
+        "notes": "Free entry to puja and pre-puja competition. Ticketed lunches on Oct 17 & 18. Sponsorships/donations via Zelle or website."
       },
       "bhog": {
-        "available": false,
-        "details": "Pre-puja cultural competition event; main puja dates and bhog details TBA.",
-        "price": null
+        "available": true,
+        "details": "Prasad during morning puja rituals; ticketed lunch available on Saturday Oct 17 and Sunday Oct 18.",
+        "price": "Ticketed (check organizer portal)"
       },
       "contact": {
         "email": "mantrapearland@gmail.com",
-        "phone": null
+        "phone": "(713) 517-4940"
       },
       "links": {
         "website": "https://mantrapearland.org/",
         "registration": "https://docs.google.com/forms/d/e/1FAIpQLSeexYPvOYpslW5WVB6p_DgQ_TFDIt99EIymTDAKHYJ46W6pCQ/viewform"
       },
       "highlights": [
-        "5th Annual Durga Pujo celebration in Pearland / Greater Houston",
-        "Art, Alpona & Chess Competition on Oct 4, 2026 (10 AM – 12 PM)",
-        "Free community participation (sponsored by Best Brains Pearland)",
-        "Art paper provided; 3-round Swiss system unrated chess tournament"
+        "5th Year Grand Celebration — 501(c)(3) community organization",
+        "Main Durga Puja at Orissa Cultural Center (Oct 16–18, 2026)",
+        "Chandi Paath & Mahalaya observance (Oct 16 evening)",
+        "Sondhipuja with 108 lotus offering & Hom/Yagya (Oct 18 morning)",
+        "Dhunuchi Naach & Sindoor Khela (Oct 18 late afternoon)",
+        "Ticketed festive lunch on Saturday & Sunday (Oct 17–18)",
+        "Shornali Sandhya, Aarti, Garba and Food Mela (Oct 17 evening)",
+        "Pre-puja Art, Alpona & Chess Competition on Oct 4 at West Pearland Library"
       ],
       "notices": [
-        "Main Durga Puja ritual schedule and dates for 2026 to be announced by Mantra Pearland.",
-        "Participants in the Oct 4 competition should bring their own coloring supplies and chess boards."
+        "Main Durga Puja is held at Orissa Cultural Center (3101 Fuqua St, Houston).",
+        "Pre-puja Art, Alpona & Chess Competition is on Oct 4 at West Pearland Library (11801 Shadow Creek Pkwy / 3522 Liberty Dr, Pearland)."
       ],
-      "hours": [],
+      "hours": [
+        {
+          "date": "2026-10-04",
+          "open": "10:00",
+          "close": "12:00",
+          "source": "organizer"
+        },
+        {
+          "date": "2026-10-16",
+          "open": "17:30",
+          "close": "21:30",
+          "source": "organizer"
+        },
+        {
+          "date": "2026-10-17",
+          "open": "09:00",
+          "close": "22:00",
+          "source": "organizer"
+        },
+        {
+          "date": "2026-10-18",
+          "open": "09:00",
+          "close": "20:00",
+          "source": "organizer"
+        }
+      ],
       "culturalPrograms": [
         {
           "date": "2026-10-04",
           "time": "10:00",
           "title": "Art, Alpona & Chess Competition",
           "artist": "Community participants (all ages)",
-          "description": "Art competition on canvas/paper, traditional Alpana floor art competition, and a 3-round Swiss system unrated tactical chess tournament.",
+          "description": "Pre-puja creative competitions at West Pearland Library sponsored by Best Brains.",
+          "free": true
+        },
+        {
+          "date": "2026-10-16",
+          "time": "18:00",
+          "title": "Chandi Paath Recitation",
+          "artist": "Devotees & Priests",
+          "description": "Sacred recitation of Devi Mahatmyam / Chandi Paath marking Mahalaya & commencement of Durga Puja.",
+          "free": true
+        },
+        {
+          "date": "2026-10-17",
+          "time": "18:30",
+          "title": "Shornali Sandhya, Garba & Food Mela",
+          "artist": "Local Performers & Community",
+          "description": "Evening musical and cultural program, festive Garba dancing, and community food mela.",
+          "free": true
+        },
+        {
+          "date": "2026-10-18",
+          "time": "16:00",
+          "title": "Dhunuchi Naach Celebration",
+          "artist": "Devotees & Dhaakis",
+          "description": "Energetic Dhunuchi dance leading into Sindoor Khela and Dashami farewell.",
           "free": true
         }
       ],
@@ -1017,8 +1079,71 @@ export const data = {
           "date": "2026-10-04",
           "start": "10:00",
           "end": "12:00",
-          "title": "Art, Alpona & Chess Competition",
+          "title": "Art, Alpona & Chess Competition (West Pearland Library)",
           "type": "cultural"
+        },
+        {
+          "date": "2026-10-16",
+          "start": "18:00",
+          "end": "21:00",
+          "title": "Mahalaya & Chandi Paath",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "09:30",
+          "end": "12:30",
+          "title": "Maha Shashthi & Saptami Puja Arpan, Pushpanjali & Prasad",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "10:00",
+          "end": "14:00",
+          "title": "Festive Bazaar & Vendor Stalls",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "12:30",
+          "end": "14:30",
+          "title": "Ticketed Lunch",
+          "type": "food"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "17:30",
+          "end": "18:30",
+          "title": "Sandhya Aarti & Ashtami Observance",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-17",
+          "start": "18:30",
+          "end": "21:30",
+          "title": "Shornali Sandhya Cultural Evening, Garba & Food Mela",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "09:30",
+          "end": "12:30",
+          "title": "Sondhipuja (108 Lotus Offering), Hom (Yagya), Navami & Dashami Puja",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "12:30",
+          "end": "14:30",
+          "title": "Ticketed Lunch",
+          "type": "food"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "16:00",
+          "end": "18:00",
+          "title": "Dhunuchi Naach & Sindoor Khela",
+          "type": "ritual"
         }
       ]
     }
