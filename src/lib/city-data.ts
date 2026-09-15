@@ -91,7 +91,8 @@ export const city = {
       "brand": "Bay Area Pujo Parikrama",
       "url": "https://rabimba.github.io/baypujo/"
     }
-  ]
+  ],
+  "stateCode": "TX"
 } as CityConfig;
 export const data = {
   "meta": {
