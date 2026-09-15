@@ -985,7 +985,7 @@ export const data = {
       "entry": {
         "free": true,
         "ticketUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeexYPvOYpslW5WVB6p_DgQ_TFDIt99EIymTDAKHYJ46W6pCQ/viewform",
-        "notes": "Free entry to puja and pre-puja competition. Ticketed lunches on Oct 17 & 18. Sponsorships/donations via Zelle or website."
+        "notes": "Free entry for community attendance. Registration via Google Form for pre-puja competition. Ticketed lunch on Oct 17 & 18. Sponsorships, vendor stalls & donations via Zelle/website or contact Vrutant Shah (713) 517-4940."
       },
       "bhog": {
         "available": true,
@@ -998,7 +998,8 @@ export const data = {
       },
       "links": {
         "website": "https://mantrapearland.org/",
-        "registration": "https://docs.google.com/forms/d/e/1FAIpQLSeexYPvOYpslW5WVB6p_DgQ_TFDIt99EIymTDAKHYJ46W6pCQ/viewform"
+        "registration": "https://docs.google.com/forms/d/e/1FAIpQLSeexYPvOYpslW5WVB6p_DgQ_TFDIt99EIymTDAKHYJ46W6pCQ/viewform",
+        "facebook": "https://www.facebook.com/groups/IndiansInHouston/posts/3322515894622461/"
       },
       "highlights": [
         "5th Year Grand Celebration — 501(c)(3) community organization",
