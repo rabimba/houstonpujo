@@ -184,9 +184,15 @@ export const data = {
         },
         {
           "date": "2026-10-24"
+        },
+        {
+          "date": "2026-10-25"
+        },
+        {
+          "date": "2026-11-07"
         }
       ],
-      "dateLabel": "Oct 10–24, 2026 (tithi calendar)",
+      "dateLabel": "Oct 10–25, 2026 (tithi calendar) · Pre Kali Puja Nov 7",
       "description": "Houston's flagship Durga Puja and a North America-class celebration — 25+ years running, 4,000–5,000 attendees, winner of the Government of West Bengal's Biswa Bangla Sarad Samman (the only North American puja so honored). Follows the true tithi calendar: Til Tarpan and Mahalaya (Oct 10–11), Bodhan Oct 15, Shashthi through Dashami Oct 16–20, with Bijoya Sammiloni on Oct 24. Mahalaxmi Iyer performs Saturday night.",
       "venue": {
         "name": "Houston Durga Bari Society Temple",
@@ -269,17 +275,17 @@ export const data = {
         },
         {
           "date": "2026-10-16",
-          "start": "19:00",
-          "end": null,
-          "title": "Pushpanjali, Bhog, Sandhya Arati",
-          "type": "ritual"
-        },
-        {
-          "date": "2026-10-16",
           "start": "18:30",
           "end": null,
           "title": "Musical journey along Silk Route",
           "type": "cultural"
+        },
+        {
+          "date": "2026-10-16",
+          "start": "19:00",
+          "end": null,
+          "title": "Pushpanjali, Bhog, Sandhya Arati",
+          "type": "ritual"
         },
         {
           "date": "2026-10-16",
@@ -300,6 +306,13 @@ export const data = {
           "start": "22:00",
           "end": null,
           "title": "Ankita Bhattacharyya & Subhadeep Das Choudhury — musical nite",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-17",
+          "start": null,
+          "end": null,
+          "title": "Muktomela — open stage for community children",
           "type": "cultural"
         },
         {
@@ -339,13 +352,6 @@ export const data = {
         },
         {
           "date": "2026-10-17",
-          "start": null,
-          "end": null,
-          "title": "Muktomela — open stage for community children",
-          "type": "cultural"
-        },
-        {
-          "date": "2026-10-17",
           "start": "18:30",
           "end": null,
           "title": "Saat Ronger Saat Paak (wedding traditions)",
@@ -370,6 +376,27 @@ export const data = {
           "start": "22:00",
           "end": null,
           "title": "Mahalaxmi Iyer & Sourav Das — magical melodies",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-18",
+          "start": null,
+          "end": null,
+          "title": "Next Gen cultural presentation",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-18",
+          "start": null,
+          "end": null,
+          "title": "Boroder Adda — seniors' reminiscence",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-18",
+          "start": null,
+          "end": null,
+          "title": "Panchakobir Monone Rasobodh — poets' homage",
           "type": "cultural"
         },
         {
@@ -402,37 +429,9 @@ export const data = {
         },
         {
           "date": "2026-10-18",
-          "start": null,
-          "end": null,
-          "title": "Next Gen cultural presentation",
-          "type": "cultural"
-        },
-        {
-          "date": "2026-10-18",
-          "start": null,
-          "end": null,
-          "title": "Boroder Adda — seniors' reminiscence",
-          "type": "cultural"
-        },
-        {
-          "date": "2026-10-18",
           "start": "18:00",
           "end": null,
           "title": "Sandhya Arati",
-          "type": "ritual"
-        },
-        {
-          "date": "2026-10-18",
-          "start": null,
-          "end": null,
-          "title": "Panchakobir Monone Rasobodh — poets' homage",
-          "type": "cultural"
-        },
-        {
-          "date": "2026-10-18",
-          "start": "20:56",
-          "end": null,
-          "title": "Maha Sandhi Puja",
           "type": "ritual"
         },
         {
@@ -441,6 +440,13 @@ export const data = {
           "end": "21:30",
           "title": "Dinner — puja feast",
           "type": "food"
+        },
+        {
+          "date": "2026-10-18",
+          "start": "20:56",
+          "end": null,
+          "title": "Maha Sandhi Puja",
+          "type": "ritual"
         },
         {
           "date": "2026-10-19",
@@ -504,6 +510,55 @@ export const data = {
           "end": "21:30",
           "title": "Dinner — Subho Bijoya",
           "type": "food"
+        },
+        {
+          "date": "2026-10-24",
+          "start": "22:00",
+          "end": null,
+          "title": "Miss Jojo — musical extravaganza",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-10-25",
+          "start": "18:00",
+          "end": null,
+          "title": "Kojagari Lokkhi Puja, Pushpanjali, Bhog, Arati",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-25",
+          "start": "19:30",
+          "end": null,
+          "title": "Prasad",
+          "type": "food"
+        },
+        {
+          "date": "2026-11-07",
+          "start": "19:00",
+          "end": null,
+          "title": "Pre Kali Puja — Sandhya Arati",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-11-07",
+          "start": "19:30",
+          "end": null,
+          "title": "Fireworks",
+          "type": "cultural"
+        },
+        {
+          "date": "2026-11-07",
+          "start": "20:30",
+          "end": "21:30",
+          "title": "Dinner — Deepabali Sandhyo-Bhoj",
+          "type": "food"
+        },
+        {
+          "date": "2026-11-07",
+          "start": "21:30",
+          "end": null,
+          "title": "Kali Puja comedy drama",
+          "type": "cultural"
         }
       ],
       "bhog": {
@@ -521,7 +576,8 @@ export const data = {
         "phone": "(281) 589-7700"
       },
       "notices": [
-        "Follows the tithi calendar — main puja days are Oct 16–20 (Fri–Tue), not a single weekend."
+        "Follows the tithi calendar — main puja days are Oct 16–20 (Fri–Tue), not a single weekend.",
+        "Festival continues past Dashami: Bijoya Sammiloni Oct 24, Kojagari Lokkhi Puja Oct 25, Pre Kali Puja Nov 7."
       ],
       "links": {
         "website": "https://durgabari.org/2026-puja/",
@@ -532,12 +588,21 @@ export const data = {
         "Biswa Bangla Sarad Samman winner — the only North American puja so honored",
         "4,000–5,000 attendees from across the US",
         "Mahalaxmi Iyer & Sourav Das live — Oct 17, 10 PM",
+        "Miss Jojo live — Bijoya Sammiloni, Oct 24, 10 PM",
         "True tithi calendar: Bodhan Oct 15 to Dashami Oct 20",
         "Sandhi Puja Oct 18, 8:56 PM",
-        "Bijaya Sammiloni & Sindoor Khela Oct 24"
+        "Bijaya Sammilani & Sindoor Khela Oct 24; Kojagari Lokkhi Puja Oct 25"
       ],
       "status": "verified",
       "culturalPrograms": [
+        {
+          "title": "Miss Jojo — musical extravaganza",
+          "date": "2026-10-24",
+          "time": "22:00",
+          "artist": "Miss Jojo",
+          "description": "Bijoya Sammiloni night headliner closing the festival.",
+          "free": null
+        },
         {
           "title": "Mahalaxmi Iyer & Sourav Das — musical nite",
           "date": "2026-10-17",
