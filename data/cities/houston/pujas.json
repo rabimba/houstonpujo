@@ -56,6 +56,12 @@
     "recentUpdates": [
       {
         "date": "2026-09-28",
+        "text": "Vedanta Society of Greater Houston announced Sri Sri Durga Puja for Saturday Oct 10 with worship by Swami Kripamayananda.",
+        "pujaId": "vedanta",
+        "link": "https://www.houstonvedanta.org/"
+      },
+      {
+        "date": "2026-09-28",
         "text": "HDBS published full 2026–2027 Puja Schedule from Til Tarpan (Oct 10) through Dashami (Oct 24). Registration is open.",
         "pujaId": "hdbs",
         "link": "https://durgabari.org/2026-puja/registration/"
@@ -856,10 +862,14 @@
       "name": "Vedanta Society of Greater Houston Durga Puja",
       "organizer": "Vedanta Society of Greater Houston (Ramakrishna Order)",
       "region": "West Houston",
-      "weekend": null,
-      "dates": [],
-      "dateLabel": "2026 date to be announced",
-      "description": "The Vedanta Society's annual one-day Durga Puja, held under a tent in the open air at the Vedanta center, with worship performed by a monastic Swami of the Ramakrishna Order (Swami Kripamayananda in recent years). In 2025 it was held Sep 20 with lunch coupons (adult $15, family up to 4 $50). Watch houstonvedanta.org for the 2026 date.",
+      "weekend": 1,
+      "dates": [
+        {
+          "date": "2026-10-10"
+        }
+      ],
+      "dateLabel": "Saturday, Oct 10, 2026",
+      "description": "The Vedanta Society's annual Sri Sri Durga Puja, held in the open air under the tent at the Vedanta center. Worship performed by Swami Kripamayananda, Minister & Head of the Vedanta Society of Toronto, Canada.",
       "venue": {
         "name": "Vedanta Society of Greater Houston",
         "address": "14809 Lindita Drive",
@@ -868,36 +878,75 @@
         "lng": -95.7285,
         "coordsApprox": true
       },
-      "schedule": [],
+      "schedule": [
+        {
+          "date": "2026-10-10",
+          "start": "09:30",
+          "end": "12:00",
+          "title": "Sri Sri Durga Puja Worship (Swami Kripamayananda)",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-10",
+          "start": "12:00",
+          "end": "13:00",
+          "title": "Arati & Pushpanjali",
+          "type": "ritual"
+        },
+        {
+          "date": "2026-10-10",
+          "start": "13:00",
+          "end": "14:00",
+          "title": "Mahaprasad Lunch (distribution ends at 2:00 PM)",
+          "type": "food"
+        }
+      ],
       "bhog": {
         "available": true,
-        "price": "$15 adult / $50 family (2025 lunch coupons)",
-        "details": "Pre-purchase lunch coupons for accurate planning."
+        "price": null,
+        "details": "Lunch coupons MUST be collected from Registration Desk. Lunch distribution ends at 2:00 PM."
       },
       "entry": {
         "free": true,
-        "ticketUrl": null,
-        "notes": "Worship open to all; register and buy lunch coupons when announced (2025: adult $15, family up to 4 $50)."
+        "ticketUrl": "https://www.houstonvedanta.org/",
+        "notes": "Devotees are free to attend and witness the puja, but registration is required for lunch. Adjacent parking lot of the Gurudwara Sahib of Southwest Houston is available for parking."
       },
       "contact": {
-        "email": null,
+        "email": "info@houstonvedanta.org",
         "phone": "(281) 988-7211",
         "notes": null
       },
       "notices": [
-        "2026 date not yet announced — 2025 was Sep 20, 9:30 AM–2:30 PM."
+        "Special talk on Thursday, Oct 8 at 7:30 PM: 'Sri Durga - The Divine Mother' by Swami Kripamayananda.",
+        "Center is closed on Sunday, Oct 11."
       ],
       "links": {
-        "website": "https://www.houstonvedanta.org/event-list"
+        "website": "https://www.houstonvedanta.org/"
       },
       "highlights": [
-        "Worship by a Ramakrishna Order Swami",
+        "Worship by Swami Kripamayananda (Head of Vedanta Society of Toronto)",
         "Open-air tent celebration",
-        "Free to attend; lunch by coupon"
+        "Free to attend; registration required for lunch",
+        "Parking at adjacent Gurudwara Sahib of Southwest Houston"
       ],
-      "status": "tba",
-      "culturalPrograms": [],
-      "hours": []
+      "status": "verified",
+      "culturalPrograms": [
+        {
+          "title": "Sri Durga — The Divine Mother (Lecture)",
+          "date": "2026-10-08",
+          "time": "19:30",
+          "artist": "Swami Kripamayananda",
+          "description": "Special evening talk preceding Durga Puja."
+        }
+      ],
+      "hours": [
+        {
+          "date": "2026-10-10",
+          "open": "09:30",
+          "close": "14:30",
+          "source": "organizer"
+        }
+      ]
     },
     {
       "id": "hkt",
